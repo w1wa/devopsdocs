@@ -1,0 +1,1 @@
+![alt text](photo/K8sSyntax.jpg)
